@@ -1,5 +1,5 @@
 {
-  "name": "SingleTable",
+  "name": "single_table",
   "dependencies": {
     "@dataform/core": "2.4.2"
   }
